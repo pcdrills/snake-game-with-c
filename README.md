@@ -1,5 +1,6 @@
 # snake-game-with-c
 Making a snake game with c programming using ncurses
+# Don't forget to install the ncurses library
 
 This repository of making a snake game originates from moving the cursor in C.
 After i could move the cursor and get some fruits displayed at random positions, i decided to make it more fun and share :)
